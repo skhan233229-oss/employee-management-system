@@ -1,0 +1,49 @@
+body {
+    background-color: #f4f7fc;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #173b67;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: white !important;
+}
+
+.page-title {
+    color: #173b67;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.table thead {
+    background-color: #173b67;
+    color: white;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 6px;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+.footer {
+    margin-top: 35px;
+    text-align: center;
+    color: #777;
+    padding-bottom: 20px;
+}
